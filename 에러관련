@@ -1,7 +1,7 @@
 github 에러 관련
 
 Git push가 안되는 경우 (fatal: refusing to merge unrelated histories)
-IT, 프로그래밍/버전관리시스템(Git) 2018. 7. 13. 13:51
+
 로컬 저장소에 있는 프로젝트를 깃허브 사이트를 통해 만든 저장소로 push 하는 경우에 이런 메세지가 뜨는 경우가 있다.
 
 
